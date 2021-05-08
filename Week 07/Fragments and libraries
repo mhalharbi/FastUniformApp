@@ -2,3 +2,9 @@ This week the focus was creating an UI that creates the detailed lists of all th
 Fragments and libraries;
     7.1 Ballon plugin - used to generate the profiles of the users within the Fast uniforms apps and thus we need to add dependencies in the gradle files. 
     7.2 Recycler view - The recycler view helps create the fast uniform product management dsahboard and appropriate mechanism to add files to the cart order. 
+    
+In summary, this week
+    1.  I entirely focused on implementation of libraries and how to insert the library in the gradle files and thus implement robust project implementation design for the project product listings.
+    2. Using the appropriate recyclerview to generate a perfect adapter classes that stores the product bitmap data and the descriptive textual data elements. 
+    3. Implementation of android libraries such as balloon android library and recyclerview components. 
+
