@@ -1,4 +1,8 @@
 # Fastuniformapp
+This a project about development of a uniform appstore to make it easier for parents to acquire uniforms on the go and avoid congestations in uniform stores.
+The fist folder "FastUniforms" contains the Android files and code for this project which can be imported onto the Android SDK and run.
+
+Each week has a folder and project activities of what I did each week.
 
  Week 01: mobile application development and market research
  
