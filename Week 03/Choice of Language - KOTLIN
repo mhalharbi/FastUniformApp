@@ -1,0 +1,5 @@
+Kotlin provides an open source language with the following merits 
+-	Easier to understand, code and debug
+-	Functional programs that’s based on Java Virtual Machine (JVM)
+-	Better runtime performance constraints with embedded functionality.
+-	Helps develop interoperability applications that are API compliance and contains simulated backend functionality with no static declaration constraints
