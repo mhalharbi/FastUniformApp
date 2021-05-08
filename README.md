@@ -4,7 +4,7 @@ The fist folder "FastUniforms" contains the Android files and code for this proj
 
 Each week has a folder and project activities of what I did each week.
 
- Week 01: mobile application development and market research
+ Week 01: Mobile application development and market research
  
  Week 02:Mobile app goal objectives ui and ux design wireframes and storyboards proposal draft
  
