@@ -1,7 +1,5 @@
 This week involved creating and monitoring geofencing.
 
-Also this week;
-I focused on implementation of libraries and how to insert the library in the gradle files and thus implement robust project implementation design for the project product listings.
-Using the appropriate recyclerview to generate a perfect adapter classes that stores the product bitmap data and the descriptive textual data elements. 
-Implementation of android libraries such as balloon android library and recyclerview components. 
+	Using Geofencing for implementation of the Fast Uniforms to create a listing of all the available Fast Uniforms convenient stores in the country. 
+	Firebase was implemented to authentication and entirely forms the project backend as a server component for the project. The project will use Android Firebase to implement real-time backend service for the project implementation. 
 
