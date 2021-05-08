@@ -1,3 +1,3 @@
 Fragments and libraries;
     7.1 Ballon plugin - used to generate the profiles of the users within the Fast uniforms apps and thus we need to add dependencies in the gradle files. 
-    7.2 Recycler view
+    7.2 Recycler view - The recycler view helps create the fast uniform product management dsahboard and appropriate mechanism to add files to the cart order. 
